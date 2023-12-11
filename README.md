@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arie Chocrón
 ====================================================================================================================================
 
-Web Developer / Frontend Dev
+Web Developer / Frontend
 ----------------------------
 
 I have been learning web development since 2019, I started my journey during COVID and since I have fallen in love with the career, I started with HTML and CSS, and now I know how to work with many tools, frameworks and libraries, but, I would be lying if I said that I did this all alone, with the help of many close friends from the industry and their tutelage and my driven personality, I evolved from an apprentice to a real developer with +2 year of experience in the field with jobs in the area, from freelancing to working in companies.
