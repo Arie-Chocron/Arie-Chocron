@@ -7,7 +7,7 @@ Web Developer / Frontend
 I have been learning web development since 2019, I started my journey during COVID and since I have fallen in love with the career, I started with HTML and CSS, and now I know how to work with many tools, frameworks and libraries, but, I would be lying if I said that I did this all alone, with the help of many close friends from the industry and their tutelage and my driven personality, I evolved from an apprentice to a real developer with +2 year of experience in the field with jobs in the area, from freelancing to working in companies.
 
 * 🌍  I'm based in Ireland
-* ✉️  You can contact me at [arichocron@gmail.com](mailto:arichocron@gmail.com)
+* ✉️  You can contact me at [achocronfernandez@gmail.com](mailto:achocronfernandez@gmail.com)
 * 🧠  I'm learning Phaser - Typescript - Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Used to be a Bartender/Barista, now I'm a Developer, the cocktails and the coffee skills did not transfer but the social skills sure did :D
